@@ -1,9 +1,9 @@
 {
-  "liveVersionNum": 1.0,
+  "liveVersionNum": 1.1,
   "packageIndex": "2",
-  "iat": 90,
-  "imat": 60,
-  "bannerSwitch": 1,
+  "iat": 45,
+  "imat": 30,
+  "bannerSwitch": 0,
   "bannerToNative": 0,
   "bannerRefresh": 60,
   "bannerRandom": 20,
@@ -11,7 +11,7 @@
   "insertRequestLimit": 15,
   "yandexInsertRequestLimit": 15,
   "noAdSwitch": 1,
-  "noAdTime": 120,
+  "noAdTime": 180,
   "qtRewardSwitch": 1,
   "qtRewardTime": 180
 }
